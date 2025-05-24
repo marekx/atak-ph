@@ -5,7 +5,7 @@ setup like below:
 Username: **user**
 Password: **password**
 
-Use the certificate you downloaded in: **Import Root Certificate** with a password: **atakatak**
+Use the certificate you downloaded in: **Import Trust Certificate** with a password: **atakatak**
 
 ![server_settings](https://github.com/user-attachments/assets/04b4e486-0be9-4722-95e9-74e52feb2506)
 
