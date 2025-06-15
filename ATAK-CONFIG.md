@@ -12,6 +12,8 @@ You might need to allow for installations from unknown sources:
 
 [Google Drive Download Link](https://drive.google.com/drive/folders/14vN5e-XUKfOhGlJxDgsvc94ErK-Y8C3p?usp=drive_link)
 
+[Video Tutorial](https://www.youtube.com/watch?v=sutm_fiJoQY)
+
 ---
 
 ## Server Enrollment Steps
@@ -34,9 +36,6 @@ You might need to allow for installations from unknown sources:
         - Tap **Import Trust Store** and select your trust store file.
         - Enter your trust store certificate’s password (default: `atakatak`).
         - Tap **OK**.
-    - **Let’s Encrypt Certificates**:
-        - Leave **Use default SSL/TLS Certificates** checked.
-        - Ensure **Enroll with Preconfigured Trust** is **not** checked (option may not be available on older ATAK versions).
 11. Tap the **OK** button at the bottom of the screen.
 12. After a few seconds, you should see a message that registration has succeeded and you will be automatically connected to the server.
 13. Any data packages, plugins, and device profiles set by the server admin to install on enrollment will be automatically installed.
