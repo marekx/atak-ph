@@ -1,5 +1,8 @@
 # ATAK Configuration Guide
 
+Serwer address:
+34.88.91.132
+
 ## Download and Install
 
 You might need to allow for installations from unknown sources:
@@ -41,8 +44,7 @@ You might need to allow for installations from unknown sources:
 13. Any data packages, plugins, and device profiles set by the server admin to install on enrollment will be automatically installed.
 14. On enrollment you will be prompted by ATAK to install the DataSync plugin, give it required permissions and proceed with the installation. Enable the plugin when prompted.
 
-Serwer address:
-10.77.1.95
+
 
 ---
 
